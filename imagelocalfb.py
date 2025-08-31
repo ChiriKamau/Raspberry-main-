@@ -6,7 +6,7 @@ import time
 import os
 
 # Determine absolute path to firebase-adminsdk.json
-ABSOLUTE_PATH = '/home/lima/Raspberry/firebase-adminsdk.json'  # Replace with your actual absolute path
+ABSOLUTE_PATH = '/home/lima/codes/Raspberry-main-/firebase-adminsdk.json'  # Replace with your actual absolute path
 
 # Initialize Firebase Admin SDK
 cred = credentials.Certificate(ABSOLUTE_PATH)
